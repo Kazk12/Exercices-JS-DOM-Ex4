@@ -1,0 +1,16 @@
+.tile {
+    height: 200px;
+    width: 31%;
+    float: left;
+    border: 5px black solid;
+  }
+
+  #container{
+    width: 50%;
+  }
+
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
